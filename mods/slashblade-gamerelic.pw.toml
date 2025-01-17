@@ -1,0 +1,13 @@
+name = "slashblade:gamerelic"
+filename = "srelic-2.1.1-Beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f42a6851d144c02b9014db19fc42af6122e3e349"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6032242
+project-id = 1143914

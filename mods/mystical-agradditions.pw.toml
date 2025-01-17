@@ -1,0 +1,13 @@
+name = "Mystical Agradditions"
+filename = "MysticalAgradditions-1.20.1-7.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4206a21911eaa35fc49e8ac27c53f64f4890fa6f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6034056
+project-id = 256247

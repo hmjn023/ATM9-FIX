@@ -1,0 +1,13 @@
+name = "Glassential Renewed (Fabric/NeoForge)"
+filename = "glassential-renewed-forge-1.20.1-2.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6cf18c80f1a34caa662a42313255f7af00f9adcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5997906
+project-id = 945149
