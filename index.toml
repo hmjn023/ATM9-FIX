@@ -3504,8 +3504,17 @@ hash = "b62544c03c47142298e55b3d1dbeb20b0a9f41c906355f941b5915bb0feceee6"
 metafile = true
 
 [[files]]
+file = "mods/MekanismTweaks-test.jar"
+hash = "24412a42b9115967a58d9ef9db3bdcac261573814ea88479626c939f353135a5"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "e02bd19825959a050361567842d8d253d7d4e2d8e128942a41ce381fc0bd8e95"
+metafile = true
+
+[[files]]
+file = "mods/actually-subtractions.pw.toml"
+hash = "6b518616bf7bdb1f58391f06aec08807f515633580068b9b6019e348196ee46a"
 metafile = true
 
 [[files]]
@@ -4869,6 +4878,11 @@ hash = "cd3140db1982e4e1b17c60b71e436fc92c22b1a6ce189e6b8197d1275487679c"
 metafile = true
 
 [[files]]
+file = "mods/modern-ae2-additions.pw.toml"
+hash = "3cfb57aa41556b497ec7f0c7b1fee589b6b154008f28a94d217c1681ea793e5e"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "d200393b4761cbfec1664fc1a8c1c2326665beaccf6dfb430741dbd03e3c208c"
 metafile = true
@@ -5121,6 +5135,11 @@ metafile = true
 [[files]]
 file = "mods/productivetrees.pw.toml"
 hash = "1c2a0b908e7286eac6831ecce7c2e31c7626ee55bf2a610f0f1c72147038c989"
+metafile = true
+
+[[files]]
+file = "mods/programmed-circuit-card.pw.toml"
+hash = "ec6fa1fcd4d7bd343ba1d06c618b88de1711b0768c54be6dd759bd5551886529"
 metafile = true
 
 [[files]]
@@ -5377,6 +5396,10 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
+
+[[files]]
+file = "mods/specialised_cells-1.0.0.jar"
+hash = "b305906fd1a25e328d3a3aaa9c3fd8147737da45b058819fdfe29d85d414df64"
 
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
