@@ -1263,6 +1263,10 @@ file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "f49e08dcb8bdda8104a22a85d8c3647367da5fef4749f71a327b2448c643d3dc"
 
 [[files]]
+file = "kubejs/CustomPackSettings.json"
+hash = "1d286f37f56f1763ae88fb1f7168af3af18585eece25f303045a0dc07a72e84b"
+
+[[files]]
 file = "kubejs/README.md"
 hash = "afa58cb67bd440b44de0ae27d054f406be6033afc9827bf07670aa03860e0c58"
 
@@ -1383,6 +1387,30 @@ file = "kubejs/assets/industrialforegoing/models/block/sludge.json"
 hash = "e522a9add02150e2309afd4bcfa72b8757c99aace49491a3c41fd548511c2888"
 
 [[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_fission_fuel_assembly_x729.json"
+hash = "4c0c835fb594d82c3cec0084f72a72549fc7b16b7ec74fa0d7b3b9da486e1654"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_fission_fuel_assembly_x81.json"
+hash = "9bdae5a72e2604a953d846892df38768b3546b31598db9a752c674b9fcfc6fe5"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_fission_fuel_assembly_x9.json"
+hash = "452382f11102996f30af53285adb38fcf1266e5bbc72fdc488933bf7be125a70"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_reactor_glass_x729.json"
+hash = "d673166edbb044c17b9810a033faa9d2d9840eca62a202bd0a29869f6b918156"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_reactor_glass_x81.json"
+hash = "811d1ab61f7f60682a162ff9b280cba83215778eb7d2c278971f07e3e819c865"
+
+[[files]]
+file = "kubejs/assets/kubejs/blockstates/compressed_reactor_glass_x9.json"
+hash = "83b09a96fa5fe2c934e9a27f1ab764e0c8af83d185cddefac9336c2689197634"
+
+[[files]]
 file = "kubejs/assets/kubejs/blockstates/magical_soil.json"
 hash = "c9cffd01a2dea78eb610b1d66ac7ffd9b483bebed298b78520a88a8b80f6d1a6"
 
@@ -1429,6 +1457,30 @@ hash = "a0682ab68cf03089d0e1221bb84f0b2eee37d206a8e9d36d255bd473638dd71d"
 [[files]]
 file = "kubejs/assets/kubejs/lang/translation_contributors.md"
 hash = "1191f492dbd097f084ee0c0fb01acfed80edb5ad11aa11918cab4d1f658c915d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_fission_fuel_assembly_x729.json"
+hash = "8b998750efd263583c4cb9b036dadd58dd569a16d124e7e61a05cdf0b7ee3b7d"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_fission_fuel_assembly_x81.json"
+hash = "3d1930808572edb3217741bba1011bd8fa48c672178cbc168ecf3838a7961e9f"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_fission_fuel_assembly_x9.json"
+hash = "0d5c9e2430308f7228ed311e8d53f8bbbd3817984bc1e3582580495da6311e8b"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_reactor_glass_x729.json"
+hash = "3982376a910fe126206c3588808ad6d4584db01dc00b0d1e2af7629949b876e8"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_reactor_glass_x81.json"
+hash = "b74a3bda5f1e02ce627eb0feb34013e513c0242160dacb3be943b8093654ed35"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/block/compressed_reactor_glass_x9.json"
+hash = "d215cd503fd44ba8ddd7d53b7ff85c4ac6b8fd62df037564fc0ae32f64a5c015"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/block/magical_soil.json"
@@ -1489,6 +1541,30 @@ hash = "bede2ae06e9845cafcca473875696a8c377460adf2abf456a3a2e55940974222"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/breeder_reactor_casing_ctm.png"
 hash = "d9f7c2fe8ae1d2403dcc97a9ec45916707c3a7df3aa00f26b8f50bac0bd1de8d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_fission_fuel_assembly_x729.png"
+hash = "52cb850765912bc5f61eeedbe4767a40ba9b5b9cd8a2f8c716a73bbc6fe8da88"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_fission_fuel_assembly_x81.png"
+hash = "fa3ab1b2fb2c04728380070d686e9478f367cf493fc84fa281095d01ca6374b6"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_fission_fuel_assembly_x9.png"
+hash = "a8f7b278b3f3c90eb095746def8760e44738ed9021d6a6db9051214b9d9b55eb"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_reactor_glass_x729.png"
+hash = "836899758caee8d2738fd182ffc3129fe08505c5c7c51453f205b9239b3ec9e9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_reactor_glass_x81.png"
+hash = "836899758caee8d2738fd182ffc3129fe08505c5c7c51453f205b9239b3ec9e9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_reactor_glass_x9.png"
+hash = "836899758caee8d2738fd182ffc3129fe08505c5c7c51453f205b9239b3ec9e9"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/magical_soil_side.png"
@@ -1561,6 +1637,10 @@ hash = "566294a15d9352b77af0d3fe3236201cf6718b52d9f0d0d8283aff3e5a00c5c3"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/universal_press.png"
 hash = "1f8d9658d9e30ec514f4e623504bb8df42fa329c63b71f832613b6494fa2341e"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "253cc2a51306bc01ae6926803d254daadc274dc5e04b756323f860c85cd9276e"
 
 [[files]]
 file = "kubejs/assets/productivebees/lang/en_us.json"
@@ -1656,7 +1736,7 @@ hash = "be66fec4e92e4263dae3f1312bb0cce1a32407497b39f9d37ca1e33db60612a5"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "2e21a58d18bdee9e4baf2cbdc3dd40b8ccf42addf61083d8ecffd598c1e916bf"
+hash = "882c7b48039f1ca1dec54f7778fe9c7b47e7cb144e1598f8f6ff49610e15c88f"
 
 [[files]]
 file = "kubejs/config/common.properties"
@@ -3251,6 +3331,34 @@ file = "kubejs/server_scripts/mods/chemlib/craftRemove.js"
 hash = "43af8df3ac53b8dea57e1610d7032702447329d671be28954409715f77911a18"
 
 [[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compact_fission_reactor.js"
+hash = "28661ed4aee2b4c09fe6b27760f3717360e7e08a52428a7e5162f45ad460ffa4"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_fission_fuel_assembly_x729.js"
+hash = "871025e8bccb0906114e0991f85542216e0c60d6af5a777f5e68871696b05973"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_fission_fuel_assembly_x81.js"
+hash = "4597be104bd2d8db7558e7c854db30a9bcde0bbfb505e0da592ad08ec5553604"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_fission_fuel_assembly_x9.js"
+hash = "c296ef794e073850f54af34849f438531331343db5cbe5cdcc1ceaca896bafdf"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_reactor_glass_x729.js"
+hash = "d5e9c534f93093041b09e0528fad839334f73dfbf824d843b3408193054d9d1a"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_reactor_glass_x81.js"
+hash = "95d606e129c9b91170ae56e14101a14e8c033c4ae91b6b01ea810c3e359c0be6"
+
+[[files]]
+file = "kubejs/server_scripts/mods/compact_mekanism/compressed_reactor_glass_x9.js"
+hash = "7fc1ae4d88a13f96574e23405b7e99b5662cf5c777c5caa7bc2654be28dd10bc"
+
+[[files]]
 file = "kubejs/server_scripts/mods/computercraft/turtles.js"
 hash = "ed5757722b34b3567cc238b53d89fce07047da8339c05db8e20b7fba5f1f17dc"
 
@@ -3424,7 +3532,7 @@ hash = "f17c4ff410922682829767892b69b76ba450c58c6a31c2e707dfcc8b8e4f78eb"
 
 [[files]]
 file = "kubejs/server_scripts/mods/mysticalagriculture/cropInfo.json"
-hash = "4c5d4763c35ca70eecd76305a797446f3657484bc435650e68fc823aa468dd04"
+hash = "2624bbb1a950db753a37c5445a9a62b4351006e8bbd63f25e381f72db8692498"
 
 [[files]]
 file = "kubejs/server_scripts/mods/mysticalagriculture/cropRemove.js"
@@ -3529,6 +3637,10 @@ hash = "1fb5a129a857362c73eff553a848dc37797ef696d602794ebf2608b372a2dc59"
 [[files]]
 file = "kubejs/startup_scripts/AE2/Universal_Press.js"
 hash = "661b3888df7c91c68d257a14266d6471a586580d98b442a9b22d5da92bbe8def"
+
+[[files]]
+file = "kubejs/startup_scripts/compact_mekanism_ingredients.js"
+hash = "e50867cc952b4de6cbfc1d00894ada199d94c4aec729e813fa6101e6aa8ed60b"
 
 [[files]]
 file = "kubejs/startup_scripts/custom_additions.js"
