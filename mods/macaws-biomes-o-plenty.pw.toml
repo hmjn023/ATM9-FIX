@@ -1,0 +1,13 @@
+name = "Macaw's Biomes O' Plenty"
+filename = "mcwbiomesoplenty-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "efa544b52b60ae589b1f27b23581cd2fe7f2d409"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6169724
+project-id = 533382

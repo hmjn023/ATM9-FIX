@@ -1,13 +1,13 @@
 name = "All the Mods 9 - FIX"
 author = "hmjn023"
-version = "1.0.3"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4de7e22e4ea9dd5b8585f2361f78f49157176bcc8dc3e58525e9032dbae1c5af"
+hash = "bcd95ed821ce98b16ba53c6e4a77698527afa09e5602a85e33c792baad68db49"
 
 [versions]
-forge = "47.3.11"
+forge = "47.3.29"
 minecraft = "1.20.1"
